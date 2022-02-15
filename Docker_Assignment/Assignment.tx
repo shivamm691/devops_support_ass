@@ -1,0 +1,13 @@
+You have to write a Dockerfile with Ubuntu 16.04 as a base image. The image should have following packages present:
+
+telnet
+curl
+ffmpeg
+Finally, when running a container from the docker image, it should launch with bash.
+
+Deliverables:
+A Dockerfile.
+A README file with instructions on how to build and run the image.
+Learning Resources
+https://docs.docker.com/
+https://training.play-with-docker.com/beginner-linux/
